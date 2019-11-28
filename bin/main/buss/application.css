@@ -1,0 +1,19 @@
+#bbus{
+	-fx-background-image : url(/picture/bbus.png/);
+	-fx-background-size : cover;
+	-fx-background-position : center center;
+}
+#run{
+	-fx-background-image : url(/picture/run.png/);
+	-fx-background-size : cover;
+	-fx-background-position : center center;
+
+}
+
+#finding{
+	-fx-background-image : url(/picture/finding.PNG/);
+	-fx-background-size : cover;
+	-fx-background-position : center center;
+
+}
+
